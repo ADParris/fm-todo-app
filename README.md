@@ -74,7 +74,8 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
-- [ColorHexa](https://www.colorhexa.com) - My goto site for all things color related.
+- [ColorHexa](https://www.colorhexa.com) - Site for all things color.
+- [RealFaviconGenerator](https://realfavicongenerator.net) - Site for all things icon.
 
 ## Author
 
